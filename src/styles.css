@@ -1,0 +1,14 @@
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+.wrapper div {
+  margin: 8px;
+}
+.wrapper .errorDiv {
+  color: red;
+}
+.footer label {
+  margin-right: 8px;
+}
